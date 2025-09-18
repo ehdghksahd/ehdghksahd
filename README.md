@@ -13,8 +13,8 @@
 
 ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 
-| 🚩 Algorithm Ranking                                                                                                        | 🚌 Top Langs                                                                                           |     |
-| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | --- |
+| 🚩 Algorithm Ranking | 🚌 Top Langs |
+| --------------------- | ------------- | 
 | [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=ehdghksahd)](https://solved.ac/profile/ehdghksahd) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehdghksahd&layout=compact) |
 
 ---
